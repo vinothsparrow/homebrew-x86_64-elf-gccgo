@@ -1,4 +1,4 @@
-class X8664ElfGccGo < Formula
+class X8664ElfGccgo < Formula
   desc "GNU compiler collection for x86_64-elf"
   homepage "https://gcc.gnu.org"
   url "https://ftp.gnu.org/gnu/gcc/gcc-10.3.0/gcc-10.3.0.tar.xz"
