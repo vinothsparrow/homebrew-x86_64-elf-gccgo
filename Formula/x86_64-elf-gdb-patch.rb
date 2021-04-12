@@ -19,7 +19,7 @@ class X8664ElfAllGdb < Formula
       --disable-debug
       --disable-dependency-tracking
       --with-lzma
-      --enable-targets=elf64-x86-64
+      --enable-targets=x86_64-none-elf
       --with-python=#{Formula["python@3.9"].opt_bin}/python3
       --disable-binutils
     ]
