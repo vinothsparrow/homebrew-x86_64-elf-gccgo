@@ -1,4 +1,4 @@
-class X8664ElfAllGdb < Formula
+class X8664ElfGdbPatch < Formula
   desc "GNU debugger for i386-elf cross development"
   homepage "https://www.gnu.org/software/gdb/"
   url "https://sourceware.org/pub/gdb/snapshots/current/gdb-weekly-11.0.50.20210411.tar.xz"
