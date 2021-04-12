@@ -1,8 +1,8 @@
 class X8664ElfAllGdb < Formula
   desc "GNU debugger for i386-elf cross development"
   homepage "https://www.gnu.org/software/gdb/"
-  url "https://sourceware.org/pub/gdb/snapshots/current/gdb-weekly-11.0.50.20210412.tar.xz"
-  sha256 "fed54b658ef15450a6c39163a8f807fd62e2c72d6f7817058aa7485c038bd9ab"
+  url "https://sourceware.org/pub/gdb/snapshots/current/gdb-weekly-11.0.50.20210411.tar.xz"
+  sha256 "982662fe8255f3a19961e293da3acd3bdc422446264d5dbaa762fccb025dba24"
   license "GPL-3.0-or-later"
   head "https://sourceware.org/git/binutils-gdb.git"
 
